@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang=en>
+    <head>
+        <title>Computer Hardware</title>
+        <meta charset="utf-8">
+        <meta name="author" content="Jason Rose">
+        <meta name="description" content="Computer Hardware and Builds page of Jason Rose.">
+        <link href="stylepc.css" rel="stylesheet">
+
+    </head>
+    <body>
+        <div id="page">
+            <div id="logo">
+            <a href="https://www.youtube.com/channel/UCESQ_OYtx3yeCNnKNipXDAg">
+                <img src="/Users/jrose/Documents/HTML and CSS/CSS/JRoseJPG.jpg" />
+            </a>
+            </div>
+        <ul id="navigation">
+            <li><a href="index.html" class="on">Home</a></li>
+            <li><a href="pchardware.html">PC Hardware</a></li>
+            <li><a href="guides.html">Buyer's Guide</a></li>
+            <li><a href="builds.html">PC Builds</a></li>
+            <li><a href="benchmarks.html">Web Projects</a></li>
+        </ul>
+        <p>
+            <img src="/Users/jrose/Documents/HTML and CSS/CSS/HomeImage2.png" class="HomeImage" />
+        </p>
+        <p>
+            This website will focus on the latest PC Hardware, my builds and their benchmarks and top rated components for the mid-range builder. I also review any tech I purchase and share my weekend projects. I have also been studying HTML, CSS and Javascript and will be posting my projects as I finish them. Also, check out my channel on YouTube and subscribe for future content. Thank you!
+        </p>
+        <ul id="social">
+            <li><a href="https://www.instagram.com/jasonrosetech/">
+                <img src="/Users/jrose/Documents/HTML and CSS/CSS/Personal Website/instagram.png" class="instagram" />
+            </a></li>
+            <li><a href="https://www.instagram.com/jasonrosetech/">
+                <img src="/Users/jrose/Documents/HTML and CSS/CSS/Personal Website/twitter.png" class="twitter" />
+            </a></li>  
+            <li><a href="https://www.instagram.com/jasonrosetech/">
+                <img src="/Users/jrose/Documents/HTML and CSS/CSS/Personal Website/youtube.png" class="youtube" />
+            </a></li> 
+            <li><a href="https://www.instagram.com/jasonrosetech/">
+                <img src="/Users/jrose/Documents/HTML and CSS/CSS/Personal Website/linkedin.png" class="linkedin" />
+            </a></li> 
+            <li><a href="https://www.instagram.com/jasonrosetech/">
+                <img src="/Users/jrose/Documents/HTML and CSS/CSS/Personal Website/github.png" class="github" />
+            </a></li> 
+        </ul>
+        </div>
+    </body>
+        <div id="contact">
+
+        </div>
+    <footer id="copy">
+        Copyright &copy; 2017 Jason Rose Tech
+    </footer>
+</html>
